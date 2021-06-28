@@ -20,7 +20,6 @@ li,a {
     display: flex;
     width: 100%;
     border-bottom: 1px solid grey;
-
 }
 
 .leftNav {
@@ -52,7 +51,7 @@ li,a {
 
 .nav-list li a {
     text-decoration: none;
-    font-size: 20px;
+    font-size: 18px;
     color: grey;
 }
 
@@ -68,7 +67,7 @@ li,a {
 
 .reg-list li a {
     text-decoration: none;
-    font-size: 20px;
+    font-size: 18px;
     color: grey;
 }
 
